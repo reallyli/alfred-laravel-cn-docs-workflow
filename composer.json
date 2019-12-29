@@ -1,0 +1,19 @@
+{
+    "name": "reallyli/alfred-laravel-cn-docs-workflow",
+    "description": "An Laravel CN docs search workflow for Alfred 3.",
+    "version": "1.0.0",
+    "keywords": ["alfred", "alfred-workflow", "laravel", "laravel CN docs", "laravel docs"],
+    "authors": [
+        {
+            "name": "reallyli",
+            "email": "zlisreallyli@outlook.com",
+            "homepage": "https://github.com/reallyli",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "joetannenbaum/alfred-workflow": "^0.1.2",
+        "guzzlehttp/guzzle":"^6.5.2"
+    }
+}
